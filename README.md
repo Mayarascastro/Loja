@@ -1,5 +1,5 @@
 ## Loja
-Programa desenvolvido em Python para Lojas Atacadistas, onde há aplicação de desconto de acordo com a quantidade solicitada.
+<p>Programa desenvolvido em Python para Lojas Atacadistas, onde há aplicação de desconto de acordo com a quantidade solicitada.</p>
 ![Saída no console](https://github.com/Mayarascastro/Loja/blob/main/Sa%C3%ADda%20do%20console%20-%20%20Loja.png)
 
 ## 🔨 Funcionalidades do projeto
