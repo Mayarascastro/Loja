@@ -1,6 +1,6 @@
 ## Loja
 <p>Programa desenvolvido em Python para Lojas Atacadistas, onde há aplicação de desconto de acordo com a quantidade solicitada.</p>
-![Saída no console](https://github.com/Mayarascastro/Loja/blob/main/Sa%C3%ADda%20do%20console%20-%20%20Loja.png)
+<img src="https://github.com/Mayarascastro/Loja/blob/main/Sa%C3%ADda%20do%20console%20-%20%20Loja.png" alt="Imagem da Saída do console" width="50%">
 
 ## 🔨 Funcionalidades do projeto
 - `Entrar com informações do produto`: O programa inicia com o valor unitária e quantidade do produto.
