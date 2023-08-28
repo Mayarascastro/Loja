@@ -2,8 +2,10 @@
 Programa desenvolvido em Python para Lojas Atacadistas, onde há aplicação de desconto de acordo com a quantidade solicitada.
 
 ## 🔨 Funcionalidades do projeto
-Loja é um app de vendas para lojistas atacadistas onde o cliente entra com o valor unitário do produto e a quantidade que desejar do produto. O programa retorna o valor total sem desconto e o valor total após a aplicação de desconto, se inserida a quantidade mínima.  
-
+- `Funcionalidade 1` `Entrar com informações do produto`: O programa inicia com o valor unitária e quantidade do produto.
+- `Funcionalidade 3` `Calcular valor total sem desconto`: O programa exibe o valor total sem desconto.
+- `Funcionalidade 3` `Calcular valor total com desconto`: O programa exibe o valor total com desconto.
+- 
 ## ✔️ Técnicas e tecnologias utilizadas
 - ``Python``
 
